@@ -1,5 +1,6 @@
 # Project 3: World happiness
-Project 3 in the course FMSN40 Linear and Logisitc regression with data collection, spring of 2022. Lund School of Engineering
+Project 3 in the course FMSN40 Linear and Logisitc regression with data collection, spring of 2022. Lund School of Engineering.
+
 Contributors: Sofia Larsson, Sofie Thulin and Joel Bengs.
 
 Code can be found in the folder "R".
